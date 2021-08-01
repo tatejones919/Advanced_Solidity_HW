@@ -44,4 +44,5 @@ Finally the transaction is confirmed through the buyers MetaMask Wallet
 ![](images/buyers_transaction.png)
 
 Now that the user has the Pupper Coin. They can add the Pupper Coin contract address into there wallet to view the assets they have purchased
+
 ![](images/adding_asset.png)
